@@ -1,1 +1,1 @@
-A non empty directory
+A non empty readme
